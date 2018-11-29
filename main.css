@@ -1,0 +1,10 @@
+.container{
+    border-color: 3px brown;
+    border-radius: 10px;
+    background-color: burlywood;
+    width: 90%;
+    height:200px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
